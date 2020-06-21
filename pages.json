@@ -1,0 +1,129 @@
+{
+	"pages": [{
+			"path": "pages/current/index",
+			"style": {
+				"app-plus": {
+					"titleNView": {
+						"buttons": [{
+								"text": "\ue67c",
+								"fontSrc": "/static/iconfont.ttf",
+								"fontSize": "25px",
+								"float": "left",
+								"type": "menu",
+								"index": "0"
+
+							},
+							{
+								"text": "\ue618",
+								"fontSrc": "/static/iconfont.ttf",
+								"fontSize": "25px",
+								"type": "menu",
+								"index": "1"
+
+							}
+						]
+					}
+				},
+
+				"enablePullDownRefresh": true
+			}
+		},
+		{
+
+			"path": "pages/current/change",
+			"style": {
+				"app-plus": {
+					"titleNView": {
+						"buttons": [{
+								"text": "\ue67c",
+								"fontSrc": "/static/iconfont.ttf",
+								"fontSize": "25px",
+								"float": "left",
+								"type": "menu",
+								"index": "0"
+
+							},
+							{
+								"text": "\ue618",
+								"fontSrc": "/static/iconfont.ttf",
+								"fontSize": "25px",
+								"type": "menu",
+								"index": "1"
+
+							}
+						]
+					}
+				},
+
+				"enablePullDownRefresh": true
+			}
+		},
+		{
+
+			"path": "pages/random/article",
+			"style": {
+				"app-plus": {
+					"titleNView": {
+						"buttons": [{
+								"text": "\ue67c",
+								"fontSrc": "/static/iconfont.ttf",
+								"fontSize": "25px",
+								"float": "left",
+								"type": "menu",
+								"index": "0"
+
+							},
+							{
+								"text": "\ue618",
+								"fontSrc": "/static/iconfont.ttf",
+								"fontSize": "25px",
+								"type": "menu",
+								"index": "1"
+
+							}
+						]
+					}
+				},
+				"enablePullDownRefresh": true
+			}
+		},
+		{
+
+			"path": "pages/collect/collection",
+			"style": {
+				"app-plus": {
+					"titleNView": {
+						"buttons": [{
+								"text": "\ue67c",
+								"fontSrc": "/static/iconfont.ttf",
+								"fontSize": "25px",
+								"float": "left",
+								"type": "menu",
+								"index": "0"
+
+							},
+							{
+								"text": "\ue618",
+								"fontSrc": "/static/iconfont.ttf",
+								"fontSize": "25px",
+								"type": "menu",
+								"index": "1"
+
+							}
+						]
+					}
+				},
+
+				"enablePullDownRefresh": true
+			}
+		}
+    ],
+"globalStyle": {
+
+	"navigationBarTextStyle": "black",
+	"navigationBarTitleText": "每日一文",
+	"navigationBarBackgroundColor": "#f7f7f7",
+	"backgroundColor": "#f7f7f7"
+
+}
+}
